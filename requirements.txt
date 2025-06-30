@@ -1,0 +1,6 @@
+# Python Version
+python==3.8
+
+# Required Packages
+opencv-python==4.9.0.80
+mediapipe==0.10.9
