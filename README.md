@@ -8,7 +8,7 @@ This repository contains code and documentation for controlling the game *Hill C
 
 Watch the demo of the gesture-based control in action:
 
-[![Gesture Control Demo](https://youtu.be/ql5nlbrLgQU)
+[![Gesture Control Demo]([https://youtu.be/ql5nlbrLgQU](https://youtu.be/ql5nlbrLgQU))
 
 ---
 
